@@ -1,37 +1,171 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/T4RIQUL-ISLAM/sitelist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="en-US">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <head>
 
-### Markdown
+    <meta charset='utf-8'>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-```markdown
-Syntax highlighted code block
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
 
-# Header 1
-## Header 2
-### Header 3
+    <link rel="stylesheet" type="text/css" media="screen" href="/websitelist.github.io/assets/css/style.css?v=fd61d2cb8540e1e73d97f60affa8a8e5a81657e7">
 
-- Bulleted
-- List
+<!-- Begin Jekyll SEO tag v2.7.1 -->
 
-1. Numbered
-2. List
+<title>websitelist.github.io</title>
 
-**Bold** and _Italic_ and `Code` text
+<meta name="generator" content="Jekyll v3.9.0" />
 
-[Link](url) and ![Image](src)
-```
+<meta property="og:title" content="websitelist.github.io" />
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<meta property="og:locale" content="en_US" />
 
-### Jekyll Themes
+<link rel="canonical" href="https://t4riqul.github.io/websitelist.github.io/" />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/T4RIQUL-ISLAM/sitelist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<meta property="og:url" content="https://t4riqul.github.io/websitelist.github.io/" />
 
-### Support or Contact
+<meta property="og:site_name" content="websitelist.github.io" />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<meta name="twitter:card" content="summary" />
+
+<meta property="twitter:title" content="websitelist.github.io" />
+
+<script type="application/ld+json">
+
+{"url":"https://t4riqul.github.io/websitelist.github.io/","@type":"WebSite","headline":"websitelist.github.io","name":"websitelist.github.io","@context":"https://schema.org"}</script>
+
+<!-- End Jekyll SEO tag -->
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+<!-- You can set your favicon here -->
+
+<!-- link rel="shortcut icon" type="image/x-icon" href="/websitelist.github.io/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+
+    <div id="header_wrap" class="outer">
+
+        <header class="inner">
+
+          
+
+            <a id="forkme_banner" href="https://github.com/T4RIQUL/websitelist.github.io"> ©️ Tariqul Islam </a>
+
+          
+
+          <h3 id="project_title" color=red">WELCOME TO MY SITE</h3>
+
+          <h2 id="project_tagline"></h2>
+
+          
+
+        </header>
+
+    </div>
+
+    <!-- MAIN CONTENT -->
+
+    
+
+        <html>
+
+				<body bgcolor="00BFFF">
+
+								<table border="2">
+
+												<tr><th colspan="4">MOVIE DOWNLOAD SITE LISTS OF BD :</th></tr>
+
+																<tr></tr><th>SERIAL NO</th>
+
+																<th><center>MOVIE TYPE</center></th>
+
+																<th><center>URL</center></th>
+
+																<th>ADVERTISEMENT</th>
+
+															
+
+																<tr>														<td><center><b>01<b><center>
+
+																<td><center>HINDI+ENGLISH</center></td>
+
+																	<td>
+
+     <button class="btn btn-outline-primary" onclick="document.location='https://mlwbd.top/'">
+
+              
+
+<u> <b><font color="blue""> MLWBD</font> </b></u>
+
+             <td><center>YES</center></td>
+
+												
+
+																											<tr>														<td><center><b>02<b><center>
+
+																<td><center>BANGLA+HINDI+ENGLISH</center></td>
+
+																	<td>
+
+     <button class="btn btn-outline-primary" onclick="document.location='https://freedrivemovie.com/'">
+
+              
+
+         <u> <b><font color="blue""> FRDMO</font> </b></u>
+
+             </td><td><center>NO</center></td>
+
+										
+
+												<tr>														<td><center><b>03<b><center>
+
+																<td><center>HINDI+ENGLISH</center></td>
+
+																	<td>
+
+     <button class="btn btn-outline-primary"  onclick="document.location=' https://themovieslab.link/'">
+
+              
+
+         <u> <b><font color="Blue"><center> MOLAB</font> </b></u>
+
+            <td><center>YES</center></td>
+
+												
+
+</button></td></center></b></b></center></td></tr></button></td></center></b></b></center></td></tr></button></td></center></b></b></center></td></tr></table></body></html>
+
+      </section>
+
+    </div>
+
+    <!-- FOOTER  -->
+
+    <div id="footer_wrap" class="outer">
+
+      <footer class="inner">
+
+        
+
+        <p>FACEBOOK: <a href="https://facebook.com/T4RIQUL">TARIQUL ISLAM</a></p>
+
+      </footer>
+
+    </div>
+
+  </body>
+
+</html>
+
+    
